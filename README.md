@@ -15,7 +15,7 @@ These are the user-agent it provides:
 ## requirement
 
 - python 3
-- you should create a js  file named  user.js in this folder C:\Users\XXX(your name)\AppData\Roaming\Mozilla\Firefox\Profiles\pagtvgjm.default-release-1627904794211
+- you should create a js  file named  user.js in this folder： C:\Users\XXX(your name)\AppData\Roaming\Mozilla\Firefox\Profiles\pagtvgjm.default-release-1627904794211
 
 ### how to create a js file
 
