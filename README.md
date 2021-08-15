@@ -14,6 +14,4 @@ These are the user-agent it provides:
 install useragent.py and click it
 ## requirement
 - python 3
-### how to create a js file
-create a txt file and rename it(such as you create a txt file named 1.txt ,you should rename it to user.js)
 
